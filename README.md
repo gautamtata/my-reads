@@ -52,3 +52,11 @@ npm start
 
 [React-Router] (https://reacttraining.com/react-router/)
 
+[Stack Overflow]
+
+(https://stackoverflow.com/questions/53736805/having-problems-with-my-udacity-myreads-react-project-props)
+
+(https://stackoverflow.com/questions/47015094/getting-the-value-of-the-select-option-to-update-a-server)
+
+(https://stackoverflow.com/questions/50134570/rendering-a-list-of-objects-left-to-right-in-react)
+
