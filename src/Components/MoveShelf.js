@@ -26,7 +26,7 @@ class MoveShelf extends Component {
         return(
             <div className="book-shelf-changer">
             <select onChange={this.amendShelf} defaultValue={currShelf}>
-              <option value="none" disabled>
+              <option value="move-to" disabled>
                 Move to .. 
               </option>
               <option value="currentlyReading">Currently Reading</option>
